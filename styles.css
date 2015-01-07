@@ -1,17 +1,14 @@
 body{
-
-
   color: #eee;
+  font-size: 14px;
 }
 
 h1{
-
-
+  font-size: 300%;
   color: red;
 }
 
 h2{
-
-  
+  font-size: 200%;
   color: purple;
 }
